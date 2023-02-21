@@ -1,9 +1,9 @@
-import BasicExample from "../Components/navbars";
+import NavBar from "../Components/navbars";
 
 const Main = () => {
     return (        
         <>
-        <BasicExample></BasicExample>
+        <NavBar></NavBar>
         <p>Settings </p>
         </> 
     );
